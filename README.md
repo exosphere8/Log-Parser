@@ -2,7 +2,7 @@
 
 An OOP-based log classification and reporting system written in Python. Parses raw network, authentication, and system logs — detects brute force attacks, process crashes, and internal threats — and generates a structured report.
 
-Built as part of a 30-day Data Engineering study plan targeting a Senior Data Engineer role at Guardsix (SIEM/cybersecurity).
+Built as part of a 30-day Data Engineering study plan targeting a Senior Data Engineer role (SIEM/cybersecurity).
 
 ---
 
