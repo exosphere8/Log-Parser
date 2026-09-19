@@ -1,0 +1,13 @@
+[project]
+name = "log-parser"
+version = "0.2.0"
+description = "OOP-based security log classification, reporting, and Postgres ETL pipeline"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+src = ["src", "tests"]
